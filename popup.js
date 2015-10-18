@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-		$("#myModal").html("<a href='http://chevroletvietlong.vn/' target='_blank'><img src='http://1.bp.blogspot.com/-mMbApNBzkVY/ViM-WxHNqBI/AAAAAAAAAO8/PIXiGqUF0qg/s1600/IMG_5977.JPG' width='500px'/>đại lý ô tô chevrolet</a>. Chevrolet cruze, catpiva. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
-		$('#myModal').linhnguyen($('#myModal').data());
+			$("#myModal")htm.l("<a href='http://chevroletvietlong.com.vn' target='_blank'><img src='https://jgoogle.googlecode.com/svn/trunk/dao-tao-seo-chuyen-sau.jpg' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
