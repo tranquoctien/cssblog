@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal")htm.l("<a href='http://chevroletvietlong.com.vn' target='_blank'><img src='http://1.bp.blogspot.com/-kQTa3mntC9M/ViNDj8dnsdI/AAAAAAAAAPM/WRDXUx2yr5g/s320/chevrolet.JPG' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://chevrolethcm.vn' target='_blank'><img src='https://jgoogle.googlecode.com/svn/trunk/dao-tao-seo-chuyen-sau.jpg' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
