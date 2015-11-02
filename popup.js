@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://dealshop.vn/' target='_blank'><img src='http://i.imgur.com/rsCqvNY.png' width='500px'/>Đại lý Chevrolet Việt Long<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://chevrolethcm.vn/' target='_blank'><img src='http://i.imgur.com/rsCqvNY.png' width='500px'/>Đại lý Chevrolet Việt Long<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
